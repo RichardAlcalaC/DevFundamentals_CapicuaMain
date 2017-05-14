@@ -6,8 +6,8 @@ import org.junit.Test;
 /**
  * The test class TestMain.
  *
- * @author  (your name)
- * @version (a version number or a date)
+ * @author  Richard Alcala C
+ * @version 0.1
  */
 public class TestMain
 {
